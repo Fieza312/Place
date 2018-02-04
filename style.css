@@ -1,0 +1,14 @@
+body {
+	background: green;
+	font-family: 'Barlow Condensed', sans-serif;
+}
+h1	{
+	color: Red;
+	font-size: 20px;
+}
+h2 {
+	color: Brown;
+}
+p {
+	background: white;
+}
